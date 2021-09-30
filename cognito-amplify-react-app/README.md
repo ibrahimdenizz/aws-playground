@@ -1,6 +1,6 @@
 # Cognito Amplify React App
 
-This repo is study code of Adding Signup and Login to your React App with AWS Amplify course from Complete Coding
+This project is study code of Adding Signup and Login to your React App with AWS Amplify course from Complete Coding
 
 Course link: https://www.youtube.com/watch?v=g4qKydnd0vU
 

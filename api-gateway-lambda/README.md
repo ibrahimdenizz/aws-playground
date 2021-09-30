@@ -1,6 +1,6 @@
 # AWS API Gateway to Lambda
 
-This repo is study code of AWS API Gateway to Lambda Tutorial in Python | Build a REST API course from Be A Better Dev
+This project is study code of AWS API Gateway to Lambda Tutorial in Python | Build a REST API course from Be A Better Dev
 
 Course link: https://www.youtube.com/watch?v=uFsaiEhr1zs
 

@@ -1,0 +1,16 @@
+[
+    {
+        "transactionType": "PURCHASE",
+        "customerId": "1",
+        "amount": "100.00",
+        "currency": "USD",
+        "vendor": "VISA"
+    },
+    {
+        "transactionType": "PURCHASE",
+        "customerId": "2",
+        "amount": "200.00",
+        "currency": "USD",
+        "vendor": "MASTER"
+    }
+]
