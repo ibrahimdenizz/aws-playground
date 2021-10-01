@@ -1,0 +1,3 @@
+[submodule "bookstore-v2"]
+	path = bookstore-v2
+	url = https://github.com/ibrahimdenizz/bookstore-v2
